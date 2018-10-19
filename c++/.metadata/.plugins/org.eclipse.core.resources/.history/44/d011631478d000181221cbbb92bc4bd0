@@ -1,0 +1,38 @@
+//============================================================================
+// Name        : 3.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+int main() {
+long n;
+int a,b;
+cout<<"enter power: "<<endl
+cin>>n;
+for(n=a;a++;){
+	b=2*2;
+
+}
+cout<<b<<endl;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	return 0;
+}

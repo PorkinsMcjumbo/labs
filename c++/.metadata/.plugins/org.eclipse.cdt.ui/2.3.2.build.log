@@ -1,0 +1,6 @@
+09:49:51 **** Incremental Build of configuration Debug for project 2.3.2 ****
+Info: Internal Builder is used for build
+g++ -o 2.3.2.exe "src\\2.3.2.o" 
+
+09:49:51 Build Finished. 0 errors, 0 warnings. (took 348ms)
+

@@ -1,0 +1,10 @@
+09:48:05 **** Incremental Build of configuration Debug for project lenny bind' ****
+Info: Internal Builder is used for build
+g++ -o "lenny bind'.exe" "src\\lenny bind'.o" "src\\the scroll of truth.o" 
+src\the scroll of truth.o: In function `main':
+Z:\Labs\c++\lenny bind'\Debug/../src/the scroll of truth.cpp:12: multiple definition of `main'
+src\lenny bind'.o:Z:\Labs\c++\lenny bind'\Debug/../src/lenny bind'.cpp:12: first defined here
+collect2.exe: error: ld returned 1 exit status
+
+09:48:06 Build Failed. 2 errors, 0 warnings. (took 353ms)
+

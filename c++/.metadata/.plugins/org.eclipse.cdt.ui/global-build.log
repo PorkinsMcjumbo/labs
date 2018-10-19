@@ -1,0 +1,4 @@
+09:59:45 **** Rebuild of configuration Debug for project 2.3.4 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2.3.4.o" "..\\src\\2.3.4.cpp" 
+g++ -o 2.3.4.exe "src\\2.3.4.o" 

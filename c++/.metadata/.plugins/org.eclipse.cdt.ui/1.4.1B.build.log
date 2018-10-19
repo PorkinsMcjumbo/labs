@@ -1,0 +1,7 @@
+08:15:16 **** Rebuild of configuration Debug for project 1.4.1B ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\1.4.1B.o" "..\\src\\1.4.1B.cpp" 
+g++ -o 1.4.1B.exe "src\\1.4.1B.o" 
+
+08:15:16 Build Finished. 0 errors, 0 warnings. (took 905ms)
+
