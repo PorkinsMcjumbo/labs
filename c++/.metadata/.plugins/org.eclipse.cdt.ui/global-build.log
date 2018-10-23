@@ -1,14 +1,7 @@
-09:25:09 **** Incremental Build of configuration Debug for project 2.5.1 ****
+08:47:57 **** Rebuild of configuration Debug for project 2.3.4 ****
 Info: Internal Builder is used for build
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2.5.1.o" "..\\src\\2.5.1.cpp" 
-..\src\2.5.1.cpp:60:2: error: expected unqualified-id before 'return'
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2.3.4.o" "..\\src\\2.3.4.cpp" 
+..\src\2.3.4.cpp: In function 'int main()':
+..\src\2.3.4.cpp:36:2: error: expected unqualified-id before 'return'
   return 0;
   ^~~~~~
-..\src\2.5.1.cpp:61:1: error: expected declaration before '}' token
- }
- ^
-09:25:12 **** Incremental Build of configuration Debug for project 2.5.1 ****
-Info: Internal Builder is used for build
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2.5.1.o" "..\\src\\2.5.1.cpp" 
-g++ -o 2.5.1.exe "src\\2.5.1.o" 
-Info: Nothing to build for 2.5.1

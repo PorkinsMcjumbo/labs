@@ -18,6 +18,14 @@ cin >> Pick;
 
 
 switch(Pick){
+
+break;
+
+case'0' :
+return 0;
+
+break;
+
 case '1' :
 cout<<"enter two number to add"<<endl;
 cin >> A;
@@ -48,15 +56,19 @@ case'4' :
 cout<<"enter two number to divide"<<endl;
 cin>>A;
 cin>>B;
+if((A==1)||(B==1)){
+
 C=A/B;
 cout << A <<" / " << B << " = " << C << endl;
-
-break;
 }
+else
+{
+cout << "dividing by Zero like that is very dangerous" << endl;
+}
+break;
 
 
-
-
-
+}
 	return 0;
 }
+
