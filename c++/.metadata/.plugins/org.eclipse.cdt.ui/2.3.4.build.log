@@ -1,10 +1,1 @@
-08:47:57 **** Rebuild of configuration Debug for project 2.3.4 ****
-Info: Internal Builder is used for build
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2.3.4.o" "..\\src\\2.3.4.cpp" 
-..\src\2.3.4.cpp: In function 'int main()':
-..\src\2.3.4.cpp:36:2: error: expected unqualified-id before 'return'
-  return 0;
-  ^~~~~~
-
-08:47:57 Build Failed. 1 errors, 0 warnings. (took 412ms)
-
+Info: Nothing to build for 2.3.4

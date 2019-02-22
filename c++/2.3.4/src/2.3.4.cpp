@@ -10,7 +10,19 @@
 using namespace std;
 
 int main() {
-int
+	int n,b=0;
+	double c=1;
+	cout<<"enter power:"<<endl;
+	cin>>n;
+
+	for(b=0;b<n;b++){
+	c=c/2;
+
+	}
+
+
+	cout<<c<<endl;
+
 
 
 
